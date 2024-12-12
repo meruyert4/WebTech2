@@ -1,2 +1,2 @@
 # WebTech2
-Страны 
+Countries where i wanna go

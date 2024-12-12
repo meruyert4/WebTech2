@@ -1,0 +1,76 @@
+.a:hover{
+    background-color: black;
+}
+
+body {
+    background-color: #f4f4f9;
+    color: #333;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    background-color: #2c3e50;
+    padding: 10px;
+    text-align: right;
+}
+
+.navbar ul {
+    list-style: none;
+}
+
+.navbar ul li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: #ecf0f1;
+    font-size: 18px;
+}
+
+.navbar a:hover,
+.navbar a.current {
+    color: #3498db;
+}
+
+main {
+    padding: 40px 20px;
+    text-align: center;
+}
+
+.title {
+    font-size: 36px;
+    color: #2c3e50;
+    margin-bottom: 20px;
+}
+
+.countries-list {
+    list-style: none;
+    padding: 0;
+}
+
+.countries-list li {
+    font-size: 24px;
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.countries-list li:hover {
+    background-color: #3498db;
+    color: white;
+}
+
+footer {
+    background-color: #2c3e50;
+    padding: 10px;
+    text-align: center;
+    color: #ecf0f1;
+    width: 100%;
+}
+
