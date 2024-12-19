@@ -1,5 +1,26 @@
 {
   "dependencies": {
-    "express": "^4.21.2"
-  }
+    "express": "^4.21.2",
+    "sillyname": "^0.1.0",
+    "superheroes": "^4.0.0"
+  },
+  "name": "webtech2",
+  "version": "1.0.0",
+  "description": "Countries where i wanna go",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meruyert4/WebTech2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meruyert4/WebTech2/issues"
+  },
+  "homepage": "https://github.com/meruyert4/WebTech2#readme",
+  "type": "module"
+
 }
